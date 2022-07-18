@@ -1,4 +1,4 @@
-name: ClockIn
+#name: ClockIn
 
 on:
   push:
